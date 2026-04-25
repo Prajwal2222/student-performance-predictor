@@ -129,9 +129,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 
-**[Your Name]**
-- GitHub: [@your_username](https://github.com/your_username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+**[Prajwal R]**
+- GitHub: [@Prajwal2222](https://github.com/your_username)
 
 ---
 
